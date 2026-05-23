@@ -1,6 +1,6 @@
 # Yelaman Karassay
 
-**Data Science & Data Engineering**
+**Data Science & Data Engineering** 
 
 I am a data-focused builder based in Hong Kong, developing practical analytics, data science, and engineering projects that turn raw information into useful decisions. My work sits around Python, SQL, data pipelines, machine learning foundations, and clear communication of results.
 
