@@ -50,6 +50,6 @@ I am a data-focused builder based in Hong Kong, developing practical analytics, 
 
 ## Connect
 
-- LinkedIn: [link](https://www.linkedin.com/in/karassay/)
+- LinkedIn: https://www.linkedin.com/in/karassay/
 - Email: yelamanvalikhanovich@gmail.com
 - GitHub: [YelamanKarassay](https://github.com/YelamanKarassay)
