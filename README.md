@@ -50,6 +50,6 @@ I am a data-focused builder based in Hong Kong, developing practical analytics, 
 
 ## Connect
 
-- LinkedIn: _add your LinkedIn URL_
-- Email: _add your preferred email_
+- LinkedIn: [link](https://www.linkedin.com/in/karassay/)
+- Email: yelamanvalikhanovich@gmail.com
 - GitHub: [YelamanKarassay](https://github.com/YelamanKarassay)
