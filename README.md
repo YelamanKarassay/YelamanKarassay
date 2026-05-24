@@ -32,14 +32,14 @@ I am a data-focused builder based in Hong Kong, developing practical analytics, 
 - [Algo-Trading-RL](https://github.com/YelamanKarassay/Algo-Trading-RL) • Python
   Public repository by Yelaman Karassay.
 
-- [Industry_Project_Algo_Trading](https://github.com/YelamanKarassay/Industry_Project_Algo_Trading) • Python
-  Public repository by Yelaman Karassay.
-
 - [InClassExercises](https://github.com/YelamanKarassay/InClassExercises) • Jupyter Notebook
   Public repository by Yelaman Karassay.
 
-- [Master-s-Notes-Obsidian](https://github.com/YelamanKarassay/Master-s-Notes-Obsidian) • HTML
-  Public repository by Yelaman Karassay.
+- [PhoneDirectoryManagementSystem](https://github.com/YelamanKarassay/PhoneDirectoryManagementSystem) • Java
+  This project is a Java-based phone directory management system designed for the Data Structures and Object-Oriented Programming course (CDS2003) at Lingnan University.
+
+- [RedditDataPipelineProject](https://github.com/YelamanKarassay/RedditDataPipelineProject) • Python
+  Kafka Python Spark Reddit API project. IN PROGRESS.
 <!-- PROJECTS:END -->
 
 ## Currently
